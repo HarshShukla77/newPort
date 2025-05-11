@@ -9,8 +9,8 @@ const Hero = ({ scrollToSection, refs }) => {
   return (
     <section className="flex flex-col items-center w-full overflow-hidden relative px-4 sm:px-6 lg:px-12">
       {/* Navbar */}
-      <Navbar ScrollToTop scrollToSection={scrollToSection} refs={refs}  />
-      
+      <Navbar  scrollToSection={scrollToSection} refs={refs}  />
+      <ScrollToTop/>
       {/* Background image */}
       <img
         src="/hero.svg"
