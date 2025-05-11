@@ -31,7 +31,7 @@ import html from '/svg/skills/html.svg';
 
 import java from '/svg/skills/java.svg';
 import javascript from '/svg/skills/javascript.svg';
-// import Kubernetes from '/svg/skills/Kubernetes.svg';
+import Kubernetes from '/svg/skills/kubernetes.svg';
 import linux from '/svg/skills/linux.svg';
 import materialui from '/svg/skills/materialui.svg';
 

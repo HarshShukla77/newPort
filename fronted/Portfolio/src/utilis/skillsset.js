@@ -2,7 +2,7 @@ export const skillsData = [
     'HTML',
     'CSS',
     'Javascript',
-    // 'Kubernetes',
+     'Kubernetes',
     'React',
     'Linux',
     'MongoDB',
