@@ -1,72 +1,72 @@
-import * as adobeXd from '/public/svg/skills/adobe-xd.svg';
-import adobeaudition from '/public/svg/skills/adobeaudition.svg';
-import afterEffects from '/public/svg/skills/after-effects.svg';
-import angular from '/public/svg/skills/angular.svg';
-import aws from '/public/svg/skills/aws.svg';
-import azure from '/public/svg/skills/azure.svg';
-import blender from '/public/svg/skills/blender.svg';
-import bootstrap from '/public/svg/skills/bootstrap.svg';
-import bulma from '/public/svg/skills/bulma.svg';
-import c from '/public/svg/skills/c.svg';
-import canva from '/public/svg/skills/canva.svg';
-import capacitorjs from '/public/svg/skills/capacitorjs.svg';
-import coffeescript from '/public/svg/skills/coffeescript.svg';
-import cplusplus from '/public/svg/skills/cplusplus.svg';
-import csharp from '/public/svg/skills/csharp.svg';
-import css from '/public/svg/skills/css.svg';
-import dart from '/public/svg/skills/dart.svg';
-import redux from '/public/svg/skills/redux.svg'; 
-import deno from '/public/svg/skills/deno.svg';
-import django from '/public/svg/skills/django.svg';
-import docker from '/public/svg/skills/docker.svg';
-import fastify from '/public/svg/skills/fastify.svg';
-import figma from '/public/svg/skills/figma.svg';
-import firebase from '/public/svg/skills/firebase.svg';
-import flutter from '/public/svg/skills/flutter.svg';
+import * as adobeXd from '/svg/skills/adobe-xd.svg';
+import adobeaudition from '/svg/skills/adobeaudition.svg';
+import afterEffects from '/svg/skills/after-effects.svg';
+import angular from '/svg/skills/angular.svg';
+import aws from '/svg/skills/aws.svg';
+import azure from '/svg/skills/azure.svg';
+import blender from '/svg/skills/blender.svg';
+import bootstrap from '/svg/skills/bootstrap.svg';
+import bulma from '/svg/skills/bulma.svg';
+import c from '/svg/skills/c.svg';
+import canva from '/svg/skills/canva.svg';
+import capacitorjs from '/svg/skills/capacitorjs.svg';
+import coffeescript from '/svg/skills/coffeescript.svg';
+import cplusplus from '/svg/skills/cplusplus.svg';
+import csharp from '/svg/skills/csharp.svg';
+import css from '/svg/skills/css.svg';
+import dart from '/svg/skills/dart.svg';
+import redux from '/svg/skills/redux.svg';
+import deno from '/svg/skills/deno.svg';
+import django from '/svg/skills/django.svg';
+import docker from '/svg/skills/docker.svg';
+import fastify from '/svg/skills/fastify.svg';
+import figma from '/svg/skills/figma.svg';
+import firebase from '/svg/skills/firebase.svg';
+import flutter from '/svg/skills/flutter.svg';
 
-import git from '/public/svg/skills/git.svg';
-import go from '/public/svg/skills/go.svg';
+import git from '/svg/skills/git.svg';
+import go from '/svg/skills/go.svg';
 
-import html from '/public/svg/skills/html.svg';
+import html from '/svg/skills/html.svg';
 
-import java from '/public/svg/skills/java.svg';
-import javascript from '/public/svg/skills/javascript.svg';
-import Kubernetes from '/public/svg/skills/Kubernetes.svg';
-import linux from '/public/svg/skills/linux.svg';
-import materialui from '/public/svg/skills/materialui.svg';
+import java from '/svg/skills/java.svg';
+import javascript from '/svg/skills/javascript.svg';
+// import Kubernetes from '/svg/skills/Kubernetes.svg';
+import linux from '/svg/skills/linux.svg';
+import materialui from '/svg/skills/materialui.svg';
 
-import mongoDB from '/public/svg/skills/mongoDB.svg';
-import mysql from '/public/svg/skills/mysql.svg';
-import nextJS from '/public/svg/skills/nextJS.svg';
-import nginx from '/public/svg/skills/nginx.svg';
-import numpy from '/public/svg/skills/numpy.svg';
-import nuxtJS from '/public/svg/skills/nuxtJS.svg';
-import opencv from '/public/svg/skills/opencv.svg';
-import photoshop from '/public/svg/skills/photoshop.svg';
-import php from '/public/svg/skills/php.svg';
-import picsart from '/public/svg/skills/picsart.svg';
-import postgresql from '/public/svg/skills/postgresql.svg';
-import premierepro from '/public/svg/skills/premierepro.svg';
-import python from '/public/svg/skills/python.svg';
-import pytorch from '/public/svg/skills/pytorch.svg';
-import react from '/public/svg/skills/react.svg';
-import ruby from '/public/svg/skills/ruby.svg';
-import selenium from '/public/svg/skills/selenium.svg';
-import sketch from '/public/svg/skills/sketch.svg';
-import strapi from '/public/svg/skills/strapi.svg';
-import svelte from '/public/svg/skills/svelte.svg';
-import swift from '/public/svg/skills/swift.svg';
-import tailwind from '/public/svg/skills/tailwind.svg';
-import tensorflow from '/public/svg/skills/tensorflow.svg';
-import typescript from '/public/svg/skills/typescript.svg';
-import unity from '/public/svg/skills/unity.svg';
-import vitejs from '/public/svg/skills/vitejs.svg';
-import vue from '/public/svg/skills/vue.svg';
-import vuetifyjs from '/public/svg/skills/vuetifyjs.svg';
-import webix from '/public/svg/skills/webix.svg';
-import wolframalpha from '/public/svg/skills/wolframalpha.svg';
-import wordpress from '/public/svg/skills/wordpress.svg';
-import chakraui from '/public/svg/skills/chakraui.svg';
+import mongoDB from '/svg/skills/mongoDB.svg';
+import mysql from '/svg/skills/mysql.svg';
+import nextJS from '/svg/skills/nextJS.svg';
+import nginx from '/svg/skills/nginx.svg';
+import numpy from '/svg/skills/numpy.svg';
+import nuxtJS from '/svg/skills/nuxtJS.svg';
+import opencv from '/svg/skills/opencv.svg';
+import photoshop from '/svg/skills/photoshop.svg';
+import php from '/svg/skills/php.svg';
+import picsart from '/svg/skills/picsart.svg';
+import postgresql from '/svg/skills/postgresql.svg';
+import premierepro from '/svg/skills/premierepro.svg';
+import python from '/svg/skills/python.svg';
+import pytorch from '/svg/skills/pytorch.svg';
+import react from '/svg/skills/react.svg';
+import ruby from '/svg/skills/ruby.svg';
+import selenium from '/svg/skills/selenium.svg';
+import sketch from '/svg/skills/sketch.svg';
+import strapi from '/svg/skills/strapi.svg';
+import svelte from '/svg/skills/svelte.svg';
+import swift from '/svg/skills/swift.svg';
+import tailwind from '/svg/skills/tailwind.svg';
+import tensorflow from '/svg/skills/tensorflow.svg';
+import typescript from '/svg/skills/typescript.svg';
+import unity from '/svg/skills/unity.svg';
+import vitejs from '/svg/skills/vitejs.svg';
+import vue from '/svg/skills/vue.svg';
+import vuetifyjs from '/svg/skills/vuetifyjs.svg';
+import webix from '/svg/skills/webix.svg';
+import wolframalpha from '/svg/skills/wolframalpha.svg';
+import wordpress from '/svg/skills/wordpress.svg';
+import chakraui from '/svg/skills/chakraui.svg';
 
 
 export const skillsImage = (skill) => {
@@ -188,40 +188,10 @@ export const skillsImage = (skill) => {
       return selenium;
     case 'strapi':
       return strapi;
-    case 'tensorflow':
-      return tensorflow;
-    case 'webix':
-      return webix;
-    case 'wordpress':
-      return wordpress;
-    case 'azure':
-      return azure;
-    case 'blender':
-      return blender;
-    case 'fastify':
-      return fastify;
-    case 'figma':
-      return figma;
-    case 'flutter':
-      return flutter;
-    case 'haxe':
-      return haxe;
-    case 'ionic':
-      return ionic;
-    case 'markdown':
-      return markdown;
-    case 'microsoft office':
-      return microsoftoffice;
-    case 'picsart':
-      return picsart;
-    case 'sketch':
-      return sketch;
-    case 'unity':
-      return unity;
-    case 'wolframalpha':
+  
+    
       return wolframalpha;
-    case 'canva':
-      return canva;
+  
     case 'redux':
       return redux;
     case 'kubernetes':
