@@ -36,7 +36,7 @@ const About = () => {
             </div>
             <div className=' items-center flex-col lg:mt-10 hidden lg:flex sm:hidden ' >
               <div className='flex  items-center rotate-90  py-[10px]  bg-[#1a1443] justify-center  w-[100px]  rounded-[5px] px-[70px]'>
-                <span className='text-white font-normal  text-[1.3rem]   ' >CONTACT</span>
+                <span className='text-white font-normal  text-[1.3rem]   ' >About Me</span>
               </div>
               <div className='bg-[#1a1443]  h-[200px]  w-[2px] '>
               </div>
