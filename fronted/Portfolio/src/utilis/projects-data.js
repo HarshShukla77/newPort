@@ -18,6 +18,6 @@ export const projectsData = [
         demo: 'https://talkative-i3rq.onrender.com', 
         
       },
-   
+     
       
 ]
